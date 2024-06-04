@@ -9,5 +9,6 @@ Dentre esses exercicios estão algumas utilidades basicas do python como:
 - while ; for - Estruturas de repetição
 - match: ; case: - Estrutura de alternativas
 - def ex(): ; class ex() - POO( Programação orientada a objeto )
+
 Entre outras bibliotecas e funções...
 
